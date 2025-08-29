@@ -12,10 +12,13 @@ import Products from './landingpage/products/Products.jsx'
 import PriceingPage from './landingpage/priceing/PriceingPage.jsx'
 import SupportPage from './landingpage/support/SupportPage.jsx'
 import Notfound from './landingpage/Notfound.jsx'
+import Notforview from './landingpage/notforview.jsx'
 
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>
+  <Notforview/>
   <Navbar/>
+  <Notforview/>
     <Routes>
     
       <Route path="/" element={<Home_page/>}/>

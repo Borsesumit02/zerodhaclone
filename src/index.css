@@ -56,3 +56,26 @@ ul{
   border-bottom: 2px solid blue !important; /* Optional: keep bottom border for inactive tabs */
   
 }
+
+
+.notforview{
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    background-color: rgb(255, 255, 255);
+    width: 1230px;
+    height: 100%;
+   
+
+
+}
+
+
+        @media (min-width: 1200px) {
+           
+          .notforview{
+            display:none;
+          }
+         
+          
+        }
