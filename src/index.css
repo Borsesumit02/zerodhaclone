@@ -1,0 +1,58 @@
+
+*{
+font-family: "Inter", sans-serif;
+
+}
+
+.navbar-nav{
+margin-left: 35%;
+
+}
+
+.nav-link{
+    margin-left: 30px;
+
+}
+.atag > a{
+    text-decoration: none;
+   color: rgba(0, 0, 0, 0.452);
+    
+}
+
+a{
+    
+
+}
+
+li{
+padding-bottom: 10px;
+
+}
+ul{
+   
+     list-style-type: none;
+}
+
+
+/* Remove bottom border of nav-tabs container */
+.nav-item{
+  padding-bottom:0px;
+   
+}
+
+
+
+/* Remove borders from nav-links */
+.nav-tabs .nav-link {
+  border: none !important;
+  
+
+}
+
+/* Remove the border from the active tab */
+.nav-tabs .nav-link.active {
+  border: none !important;
+  background-color: transparent !important; /* Optional: keep background clean */
+  border-bottom: 2px solid blue !important; /* Optional: keep bottom border for inactive tabs */
+  
+}
