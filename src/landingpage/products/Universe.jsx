@@ -44,7 +44,7 @@ strategies without coding. <br />
 </p>
             </div>
             <div className='col-4 p-3 px-1'>
-             <img   style={{height:"55px" , margin:"15px"}} src="/smallcaselogo.png" alt="" />
+             <img   style={{height:"55px" , margin:"15px"}} src="/smallcaseLogo.png" alt="" />
              <p style={{fontSize:"12px"}} >Thematic investing platform <br />
 that helps you invest in diversified <br />
 baskets of stocks on ETFs. <br />
