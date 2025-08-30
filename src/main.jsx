@@ -16,7 +16,6 @@ import Notforview from './landingpage/Notforview.jsx'
 
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>
-  <Notforview/>
   <Navbar/>
   <Notforview/>
     <Routes>
