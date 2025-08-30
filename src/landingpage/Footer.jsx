@@ -8,7 +8,7 @@ function Footer() {
             <div className='container p-5  '>
              <div className='row p-5 pt-0 mb-3'>
                <div className='col p-4 pt-0 '>
-                <img src="public\logo.svg" alt=""  style={{ width:"140px"}}/>
+                <img src="/logo.svg" alt=""  style={{ width:"140px"}}/>
                 <p className='pt-4 ' style={{fontSize:"13px"}}>&copy; 2010 - 2025, Zerodha Broking Ltd.
                 
 All rights reserved.</p>

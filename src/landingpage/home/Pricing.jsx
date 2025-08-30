@@ -13,11 +13,11 @@ function Pricing() {
                     <div  className='container'>
                        <div className='row'>
 
-                          <div className='col-2 '><img src="public\pricing-eq.svg" alt="" style={{ width:"110px", }} /> </div>
+                          <div className='col-2 '><img src="/pricing-eq.svg" alt="" style={{ width:"110px", }} /> </div>
                           <div className='col-2  mt-5'><p style={{fontSize:"10px" , }}>Free account opening</p> </div>
-                          <div className='col-2 '><img src="public\pricing-eq (1).svg" alt="" style={{ width:"110px"}} /> </div>
+                          <div className='col-2 '><img src="/pricing-eq (1).svg" alt="" style={{ width:"110px"}} /> </div>
                           <div className='col-2  mt-5' > <p style={{fontSize:"10px"}}>Free equity deliveryand direct mutual funds</p></div>
-                          <div className='col-2 '><img src="public\other-trades.svg" alt="" style={{ width:"110px"}} /></div>
+                          <div className='col-2 '><img src="/other-trades.svg" alt="" style={{ width:"110px"}} /></div>
                           <div className='col-2 mt-5 pe-5 '> <p style={{fontSize:"10px"}}> Intraday and
 F&O</p></div>
 

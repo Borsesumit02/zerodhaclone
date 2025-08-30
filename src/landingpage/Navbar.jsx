@@ -7,7 +7,7 @@ function Navbar() {
     return ( 
         <nav class="navbar navbar-expand-lg border-bottom p-2 pb-2 pt-2      fixed-top"  style={{backgroundColor:"white" , zIndex:"1"}}>
   <div class="container-fluid">
-    <Link class="navbar-brand " style={{marginLeft:"13%"}} to="/"><img src="public\logo.svg" alt="" style={{width:"130px "}} /></Link>
+    <Link class="navbar-brand " style={{marginLeft:"13%"}} to="/"><img src="/logo.svg" alt="" style={{width:"130px "}} /></Link>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>

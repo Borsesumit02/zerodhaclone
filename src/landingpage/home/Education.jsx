@@ -4,7 +4,7 @@ function Education() {
         <div className='container  '>
             <div className='row p-5'>
                 <div className='col-6'>
-                <img src="public\education.svg" alt="" />
+                <img src="/education.svg" alt="" />
 
 
 

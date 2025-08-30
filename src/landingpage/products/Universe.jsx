@@ -9,7 +9,7 @@ function Universe() {
                 <h3 className='pb-3'>The Zerodha Universe</h3>
             <p>Extend your trading and investment experience even further with our partner platforms</p>
              <div className='col-4 p-3 px-1 '>
-             <img style={{height:"55px " , padding:"2px" , margin:"15px"}}   src="public\zerodhaFundhouse.png" alt="" />
+             <img style={{height:"55px " , padding:"2px" , margin:"15px"}}   src="/zerodhaFundhouse.png" alt="" />
            <p  style={{fontSize:"12px"}} >Our asset management venture <br />
 that is creating simple and transparent index <br />
 funds to help you save for your goals.
@@ -18,7 +18,7 @@ funds to help you save for your goals.
   
              </div>
             <div className='col-4 p-3 px-1'>
-             <img  style={{height:"40px" , margin:"15px" }}  src="public\sensibullLogo.svg" alt="" />
+             <img  style={{height:"40px" , margin:"15px" }}  src="/sensibullLogo.svg" alt="" />
              <p style={{fontSize:"12px"}} >Options trading platform that lets you <br />
 create strategies, analyze positions, and examine <br />
 data points like open interest, FII/DII, and more. <br />
@@ -27,7 +27,7 @@ data points like open interest, FII/DII, and more. <br />
 </p>
             </div>
             <div className='col-4 p-3 px-1'>
-              <img  style={{height:"55px" , margin:"15px"}}  src="public\tijori.svg" alt="" />
+              <img  style={{height:"55px" , margin:"15px"}}  src="/tijori.svg" alt="" />
               <p style={{fontSize:"12px"}} >Investment research platform <br />
 that offers detailed insights on stocks, <br />
 sectors, supply chains, and more. <br />
@@ -36,7 +36,7 @@ sectors, supply chains, and more. <br />
 </p>
             </div>
             <div className='col-4 p-3  px-1'>
-             <img  style={{height:"55px" , margin:"15px"}}  src="public\streak-logo.png" alt="" />
+             <img  style={{height:"55px" , margin:"15px"}}  src="/streak-logo.png" alt="" />
              <p style={{fontSize:"12px"}} >Systematic trading platform <br />
 that allows you to create and backtest <br />
 strategies without coding. <br />
@@ -44,7 +44,7 @@ strategies without coding. <br />
 </p>
             </div>
             <div className='col-4 p-3 px-1'>
-             <img   style={{height:"55px" , margin:"15px"}} src="public\smallcaselogo.png" alt="" />
+             <img   style={{height:"55px" , margin:"15px"}} src="/smallcaselogo.png" alt="" />
              <p style={{fontSize:"12px"}} >Thematic investing platform <br />
 that helps you invest in diversified <br />
 baskets of stocks on ETFs. <br />
@@ -52,7 +52,7 @@ baskets of stocks on ETFs. <br />
 </p>
             </div>
             <div className='col-4 p-3 px-1'>
-             <img  style={{height:"55px" , margin:"15px"}}  src="public\dittoLogo.png" alt="" />
+             <img  style={{height:"55px" , margin:"15px"}}  src="/dittoLogo.png" alt="" />
              <p style={{fontSize:"12px"}} >Personalized advice on life <br />
 and health insurance. No spam <br />
 and no mis-selling.

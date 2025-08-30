@@ -21,11 +21,11 @@ function Awards() {
                 </div>
 
                 <div className='col-6 mt-5'>
-                    <img src="public\ecosystem.png" alt="" style={{width:"100%"}} />
+                    <img src="/ecosystem.png" alt="" style={{width:"100%"}} />
                     <a className='mx-5' href=""  style={{textDecoration:"none",color:"blue"}}>Explore our products <i class="fa-solid fa-arrow-right"></i></a>
                     <a href="" style={{textDecoration:"none",color:"blue"}}>Try Kite demo <i class="fa-solid fa-arrow-right"></i></a>
                 </div>
-                <img  style={{width:"70%" , margin:"0 auto "}} src="public\pressLogos.png" alt="" />
+                <img  style={{width:"70%" , margin:"0 auto "}} src="/pressLogos.png" alt="" />
             </div>
         </div>
      );

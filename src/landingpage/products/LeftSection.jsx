@@ -18,8 +18,8 @@ function LeftSection( {imageurl,title, description,trydemo,learnmore,googlePlayB
                 <a href={learnmore} style={{textDecoration:"none",color:"blue"}}>Learn more<i class="fa-solid fa-arrow-right"></i></a>
                 </div>
                 <div className='pt-3' >
-                 <a href={googlePlayBadge} style={{  paddingRight:"25px" }}><img  style={{ width:"40%"}} src="public\googlePlayBadge.svg" alt="" /></a>
-                <a href={appstoreBadge}><img style={{ width:"40%"}} src="public\appstoreBadge.svg" alt="" /></a>
+                 <a href={googlePlayBadge} style={{  paddingRight:"25px" }}><img  style={{ width:"40%"}} src="/googlePlayBadge.svg" alt="" /></a>
+                <a href={appstoreBadge}><img style={{ width:"40%"}} src="/appstoreBadge.svg" alt="" /></a>
                 </div>
                 </div>
             </div>
